@@ -1,0 +1,6 @@
+#Pacotes necessÃ¡rios
+require(rgdal)
+require(shiny)
+require(leaflet)
+require(leaflet.providers)
+require(ggplot2)
